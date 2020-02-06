@@ -32,7 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<b>Site to build...</b>\n<table>\n  <tr>\n    <th><app-component1></app-component1></th>\n    <th><app-component2></app-component2></th>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n  </tr>\n</table>");
+/* harmony default export */ __webpack_exports__["default"] = ("<table>\n  <tr>\n    <th><app-component1></app-component1></th>\n    <th><app-component2></app-component2></th>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n  </tr>\n</table>");
 
 /***/ }),
 

@@ -45,7 +45,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<b>Site to build...</b>\n<table>\n  <tr>\n    <th><app-component1></app-component1></th>\n    <th><app-component2></app-component2></th>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n  </tr>\n</table>";
+    __webpack_exports__["default"] = "<table>\n  <tr>\n    <th><app-component1></app-component1></th>\n    <th><app-component2></app-component2></th>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n  </tr>\n</table>";
     /***/
   },
 
